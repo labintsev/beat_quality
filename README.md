@@ -7,6 +7,8 @@ Research project, backend of drum beat analytic system.
 Clone repo and run: 
 
 ```commandline
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
